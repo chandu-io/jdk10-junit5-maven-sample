@@ -1,1 +1,1 @@
-# jdk10-junit5-maven-sample
+# JDK 10, JUnit 5 and Maven sample project
