@@ -1,0 +1,1 @@
+# jdk10-junit5-maven-sample
